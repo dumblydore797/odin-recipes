@@ -1,0 +1,19 @@
+/* class selector for title */
+.title {
+    font-size: 50px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: hsla(2, 100%, 51%, 0.952);
+    color: whitesmoke;
+}
+
+/* class selector for main menu */
+.menu {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aqua;
+
+}
+
+
+
